@@ -1,6 +1,5 @@
 # Um professor quer sortear um dos seus quatro alunos para apagar o quadro. 
 # Faça um programa que ajude ele, lendo o nome deles e escreendo o nome do escolhido.
-from math import atan2
 import random
 print('--== Desafio 019 ==--')
 a1 = str(input('Primeiro aluno: '))
